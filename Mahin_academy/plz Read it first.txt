@@ -1,0 +1,32 @@
+some info related to my project:
+======================================
+
+
+database: mahin_academy
+
+student(user) Log in:
+---------------------
+
+Id: hasi@gmail.com
+pass: 123
+
+
+
+Admin(teacher):
+---------------------
+
+Id: admin@gmail.com
+pass: admin
+
+
+For admin panel:
+-----------------------
+
+http://www.localhost/Mahin_academy/admin
+
+
+
+For student(user) loging:
+-----------------------------
+
+http://www.localhost/Mahin_academy/result/
